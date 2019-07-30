@@ -11,4 +11,4 @@
 `Vue.use(JKUI)`
 
 ## Author
->Jike
+>tc-ffe

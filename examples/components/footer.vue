@@ -35,7 +35,7 @@
             <img src="../assets/img/cat.png" width="80">
           </a>
           <div>
-            <p>author: Jike</p>
+            <p>author: tc-ffe</p>
             <p>email: superman@tc-ffe.com </p>
             <p>github: <a href="https://github.com/">https://github.com/</a></p>
           </div>

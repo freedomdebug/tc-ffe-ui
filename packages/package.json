@@ -1,6 +1,6 @@
 {
   "name": "tc-ffe-ui",
-  "version": "1.1.1",
+  "version": "0.0.1",
   "description": "UI base on Vue",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "UI"
   ],
-  "author": "Jike",
+  "author": "tc-ffe",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com//issues"

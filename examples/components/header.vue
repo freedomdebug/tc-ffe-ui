@@ -15,7 +15,7 @@
 
 <style>
   .page-header{
-    height: 70px;
+    height: 120px;
     box-shadow: rgba(29, 29, 29, 0.07) 0px 10px 60px 0px;
   }
   .page-header .logo{
